@@ -1,0 +1,2 @@
+PositiveTrainSet,NegativeTrainSet,NeutralTrainSet,FeatureSetCode,TestSetLimit,Iteration,Accuracy,PrecisionPositive,PrecisionNegative,PrecisionNeutral,RecallPositive,RecallNegative,RecallNeutral,fScorePositive,fScoreNegative,fScoreAverage
+1176,538,1723,12284,15,0,0.4607,0.334,0.408,0.5159,0.1469,0.4648,0.5159,0.204,0.4346,0.3193
